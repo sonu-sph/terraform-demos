@@ -1,0 +1,13 @@
+.idea/*
+.terraform
+docker-localstack-sqs-terraform/.terraform
+hotdog-localstack-PoC/.terraform
+localstack-s3-terraform/.terraform
+
+hotdog-localstack-PoC/dogCatcher.zip
+hotdog-localstack-PoC/dogProcessor.zip
+hotdog-localstack-PoC/hotDogDespatcher.zip
+
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
